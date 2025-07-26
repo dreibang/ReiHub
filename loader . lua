@@ -1,5 +1,3 @@
-local HttpService = game:GetService("HttpService")
-
 local base = "https://raw.githubusercontent.com/dreibang/ReiHub/main"
 local version_url = base .. "/version.txt"
 local script_url = base .. "/AFS-GUI.lua"

@@ -2,6 +2,7 @@
 
 local Players = game:GetService("Players") local HttpService = game:GetService("HttpService") local LocalPlayer = Players.LocalPlayer local UIS = game:GetService("UserInputService")
 
+
 -- Macro Storage local macros = {} local recordedMacro = {} local isRecording = false local currentMacro = nil
 
 -- UI Library local ScreenGui = Instance.new("ScreenGui") ScreenGui.Name = "ReiHubGUI" ScreenGui.ResetOnSpawn = false ScreenGui.Parent = LocalPlayer:WaitForChild("PlayerGui")

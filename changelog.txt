@@ -1,0 +1,4 @@
+v1.0 - Initial Release
+- Macro system (record, play, save, load)
+- Auto code redeem
+- GUI dropdown for saved macros
